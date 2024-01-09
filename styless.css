@@ -1,5 +1,19 @@
 
-h1 {
+section h1 {
+   margin: -5px;
+   font-size: 40px;
+}
 
-   
+section {
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+body {
+    background-image: url(pastel-sunrise-audrey-mcleod.jpg);
+    background-size: cover;
+}
+
+* {
+    border: 2px solid red;
 }
